@@ -1,0 +1,1 @@
+file[hostname]=&file[origin]=x&file[href]=localhost&file[protocol]=file:&file[pathname]=fl%2561g.txt
